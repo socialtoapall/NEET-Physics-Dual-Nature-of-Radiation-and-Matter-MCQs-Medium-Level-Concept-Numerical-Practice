@@ -1,0 +1,2 @@
+# NEET-Physics-Dual-Nature-of-Radiation-and-Matter-MCQs-Medium-Level-Concept-Numerical-Practice
+Practice medium-level NEET MCQs from the Dual Nature of Radiation and Matter chapter covering the photoelectric effect, Einstein’s photoelectric equation, de Broglie wavelength, work function, and stopping potential. These questions strengthen conceptual understanding and numerical problem-solving for NEET Modern Physics.
